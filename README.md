@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis-Tableau
-Here is the link to my Dashboard - https://public.tableau.com/app/profile/kaushal.powar7753/viz/NetflixDataAnalysis_16661167004390/Dashboard1
+Here is the link to my Dashboard - https://public.tableau.com/app/profile/kaushal.powar7753/viz/NetflixDataAnalysis_16661167004390/Dashboard1<br/>
 Fot this Dashboard I used the sample data on Tableau called 'Netflix Movies and TV Shows'.<br/>
 This data is also available on Kaggle.<br/>
 
