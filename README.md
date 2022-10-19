@@ -30,6 +30,6 @@ This sheets shows the globe map representaing which country has the most release
 ![Sheet 8](https://user-images.githubusercontent.com/90775147/196764813-3aa11102-e94f-4daa-ab41-9e31141adcd4.png)
 
 
-##And finally here is the dashboard
+## And finally here is the dashboard
 ![Dashboard 1 (3)](https://user-images.githubusercontent.com/90775147/196765534-435d02c1-5c17-4bd9-b582-ae19c19bfbbf.png)
 
